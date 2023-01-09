@@ -1,0 +1,6 @@
+Comparator
+ [x] Validate number
+ [x] Compare greater
+ [x] Compare lesser
+ [x] Compare equals
+

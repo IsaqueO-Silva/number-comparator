@@ -1,0 +1,16 @@
+{
+    "name": "number-comparator/number-comparator",
+    "description": "A simple library for comparing numbers",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "NumberComparator\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9",
+        "squizlabs/php_codesniffer": "*"
+    }
+}
